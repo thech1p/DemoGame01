@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\DEEPBLUE\AppData\Local\JetBrains\Rider2020.1\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\DEEPBLUE\AppData\Local\JetBrains\Rider2020.1\resharper-host\Local\Transient\ReSharperHost\v201\SolutionCaches\_Demo Game.925351920.00" t="ExcludeRecursive" />
+    <e p="C:\Users\DEEPBLUE\AppData\Roaming\JetBrains\Rider2020.1\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\DEEPBLUE\AppData\Roaming\JetBrains\Rider2020.1\extensions" t="IncludeRecursive" />
+    <e p="G:\Tech Demo Sub Projects\Demo Game" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="GUITest.cs" t="Include" />
+          <e p="MathWithCubes" t="Include">
+            <e p="GraphFunction.cs" t="Include" />
+            <e p="GraphFunction3D.cs" t="Include" />
+            <e p="GraphFunction3DName.cs" t="Include" />
+            <e p="GraphFunctionName.cs" t="Include" />
+            <e p="GraphGenerator.cs" t="Include" />
+          </e>
+          <e p="MenuController.cs" t="Include" />
+          <e p="NoiseGenerator.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="FromScratchSkyBox.shader" t="Include" />
+          <e p="Graphs" t="Include">
+            <e p="ColoredPoint.shader" t="Include" />
+          </e>
+          <e p="PanoramicEdited.shader" t="Include" />
+          <e p="ProceduralEdited.shader" t="Include" />
+        </e>
+      </e>
+      <e p="Demo Game.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

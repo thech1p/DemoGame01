@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cca887a1-b938-4804-8e7b-4c277a735ea9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphFunction3D.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphFunctionName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B80225B3-57C6-4115-895F-5655E67DB547/04/39f3dd12/Screen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphFunction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GUITest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphFunction3DName.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Graphs/ColoredPoint.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoiseGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B714C764-4B9D-413B-B9A4-D49A12C4ECB2/17/fefb79d7/Button.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/ProceduralEdited.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B80225B3-57C6-4115-895F-5655E67DB547/b8/00985ef5/Mathf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/FromScratchSkyBox.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Shaders/PanoramicEdited.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B80225B3-57C6-4115-895F-5655E67DB547/21/df055073/RectTransform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Shaders/Skybox-Panoramic.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Skybox-Procedural.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathWithCubes/3DGraphFunctionName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathWithCubes/3DGraphFunction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphFunctionName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoiseGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/Graphs/ColoredPoint.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphFunction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GUITest.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphFunction3DName.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/ProceduralEdited.shader" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/FromScratchSkyBox.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphFunction3D.cs" />
+        <option value="$PROJECT_DIR$/Assets/Shaders/PanoramicEdited.shader" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MathWithCubes/GraphGenerator.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fQGWu6rAsktHNzMjZaICSI8e0n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cca887a1-b938-4804-8e7b-4c277a735ea9" name="Default Changelist" comment="" />
+      <created>1596142937610</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596142937610</updated>
+      <workItem from="1596142943684" duration="4602000" />
+      <workItem from="1596165132495" duration="29215000" />
+      <workItem from="1596960964000" duration="25493000" />
+      <workItem from="1597106457076" duration="490000" />
+      <workItem from="1597106967137" duration="2833000" />
+      <workItem from="1597113149531" duration="2418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:G:/Tech Demo Sub Projects/Procedural Worlds/Demo Game/Packages" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597108977650">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-3130" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.-431.1200.1890/-3840.0.1920.1050@-3840.0.1920.1050" timestamp="1597108627604" />
+    <state x="710" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.-431.1200.1890/-3840.0.1920.1050@0.0.1920.1050" timestamp="1597108977650" />
+    <state x="727" y="249" key="RiderGenerateDialog" timestamp="1596143257853">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="727" y="249" key="RiderGenerateDialog/1920.-431.1200.1890/0.0.1920.1050/-3840.0.1920.1050@0.0.1920.1050" timestamp="1596143257853" />
+    <state x="713" y="235" key="RollbackChangesDialog" timestamp="1597107292394">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="713" y="235" key="RollbackChangesDialog/0.0.1920.1050/1920.-431.1200.1890/-3840.0.1920.1050@0.0.1920.1050" timestamp="1597107292394" />
+    <state x="509" y="76" width="1319" height="882" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1597108164092">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="509" y="76" width="1319" height="882" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1050/1920.-431.1200.1890/-3840.0.1920.1050@-3840.0.1920.1050" timestamp="1597108164092" />
+    <state x="509" y="76" width="1319" height="882" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1050/1920.-431.1200.1890/-3840.0.1920.1050@0.0.1920.1050" timestamp="1597107975317" />
+    <state x="728" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1597106588980">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="728" y="259" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1050/1920.-431.1200.1890/-3840.0.1920.1050@0.0.1920.1050" timestamp="1597106588980" />
+    <state x="616" y="243" key="run.anything.popup" timestamp="1596173467479">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="616" y="243" key="run.anything.popup/1920.-431.1200.1890/0.0.1920.1050/-3840.0.1920.1050@0.0.1920.1050" timestamp="1596173467479" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1596176447663">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/1920.-431.1200.1890/0.0.1920.1050/-3840.0.1920.1050@0.0.1920.1050" timestamp="1596176447663" />
+  </component>
+</project>
